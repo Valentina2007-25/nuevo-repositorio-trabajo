@@ -1,3 +1,8 @@
 este es un archivo de prueba2 > archivo3.txt
+<<<<<<< HEAD
 echo este es un archivo de prueba
  se añadio una segunda linea
+=======
+echo este es un archivo de prueba esta linea
+fue esditada desde gitHub
+>>>>>>> 7b709f3e66164ea689772a7da4098de0cf12b5ee

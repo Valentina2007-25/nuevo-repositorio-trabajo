@@ -1,0 +1,2 @@
+este es un archivo de prueba2 > archivo3.txt
+echo este es un archivo de prueba
